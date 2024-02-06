@@ -1,0 +1,100 @@
+Factors is  10
+Lambda is  0.1
+Loops is  25
+NMAE Value is  0.494775
+Factors is  10
+Lambda is  0.1
+Loops is  50
+NMAE Value is  0.4938
+Factors is  10
+Lambda is  0.1
+Loops is  75
+NMAE Value is  0.49365
+Factors is  10
+Lambda is  0.1
+Loops is  100
+NMAE Value is  0.4934375
+Factors is  10
+Lambda is  0.01
+Loops is  25
+NMAE Value is  0.49285
+Factors is  10
+Lambda is  0.01
+Loops is  50
+NMAE Value is  0.493025
+Factors is  10
+Lambda is  0.01
+Loops is  75
+NMAE Value is  0.4929875
+Factors is  10
+Lambda is  0.01
+Loops is  100
+NMAE Value is  0.4928625
+Factors is  10
+Lambda is  1
+Loops is  25
+NMAE Value is  0.4961625
+Factors is  10
+Lambda is  1
+Loops is  50
+NMAE Value is  0.4948375
+Factors is  10
+Lambda is  1
+Loops is  75
+NMAE Value is  0.4941625
+Factors is  10
+Lambda is  1
+Loops is  100
+NMAE Value is  0.493875
+Factors is  15
+Lambda is  0.1
+Loops is  25
+NMAE Value is  0.495725
+Factors is  15
+Lambda is  0.1
+Loops is  50
+NMAE Value is  0.49385
+Factors is  15
+Lambda is  0.1
+Loops is  75
+NMAE Value is  0.493925
+Factors is  15
+Lambda is  0.1
+Loops is  100
+NMAE Value is  0.4933625
+Factors is  15
+Lambda is  0.01
+Loops is  25
+NMAE Value is  0.493825
+Factors is  15
+Lambda is  0.01
+Loops is  50
+NMAE Value is  0.4926375
+Factors is  15
+Lambda is  0.01
+Loops is  75
+NMAE Value is  0.4932625
+Factors is  15
+Lambda is  0.01
+Loops is  100
+NMAE Value is  0.4928125
+Factors is  15
+Lambda is  1
+Loops is  25
+NMAE Value is  0.4966375
+Factors is  15
+Lambda is  1
+Loops is  50
+NMAE Value is  0.4945625
+Factors is  15
+Lambda is  1
+Loops is  75
+NMAE Value is  0.4938625
+Factors is  15
+Lambda is  1
+Loops is  100
+NMAE Value is  0.4937125
+Factors is  20
+Lambda is  0.1
+Loops is  25
+The upload time is: 2023-04-19 18:24:11
